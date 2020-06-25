@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">30 Days Pushups</string>
+    <string name="box_pushup">Place your hands underneath your shoulders with your fingers facing forward. Rest your knees and your feet on the floor. Make a box shape with your arms, your body, your thighs and the floor. Bend your elbows and lower your chest towards the floor.</string>
+    <string name="decline_pushup">Lie on the floor face down and place your hands about 36 inches apart while holding your torso up at arms length. Move your feet up to a box or bench. This will be your starting position.Next, lower yourself downward until your chest almost touches the floor as you inhale.Now breathe out and press your upper body back up to the starting position while squeezing your chest.After a brief pause at the top contracted position, you can begin to lower yourself downward again for as many repetitions as needed.</string>
+    <string name="diamond_pushup">Get in the modified push-up position on your knees but with your hands together and back flat.Spread your fingers so that your index fingers and thumbs form a diamond, and extend your arms. This is your start position.Allow your elbows to break, lowering your chest toward the floor while keeping your back flat.Press back up to full arm extension, repeating for the required number of reps.To make the movement more difficult, stay up on your toes rather than on your knees.</string>
+    <string name="hindu_pushup">Bend down and place your hands on the floor while keeping your arms and legs straight. You should look like an upside down human “v” with your butt being the point of the “v” and your head pointing down to the ground. To perform the Hindu push-up, you are going to make sort of a swooping motion with your body.</string>
+    <string name="incline_pushup">Stand facing bench or sturdy elevated platform. Place hands on edge of bench or platform, slightly wider than shoulder width.Position forefoot back from bench or platform with arms and body straight. Arms should be perpendicular to body. Keeping body straight, lower chest to edge of box or platform by bending arms.Push body up until arms are extended. Repeat.</string>
+    <string name="opp_arm_pushup">Position yourself on your elbows and toes, with your body forming a straight line from your shoulders to your ankles. Brace your abs and squeeze your glutes, and spread your feet wider than shoulder-width apart.Lift one arm and the opposite leg off the floor. Hold, then return to starting position and alternate sides.</string>
+    <string name="plank_pushup">Start in a plank position on your forearms with your feet shoulder width apart and your lower back flat.Press your body up to a push-up position and then lower yourself back down into the plank.</string>
+    <string name="side_rotation_pushup">Exhale and lower your chest to within a few inches of the floor. Inhale and push your body up. At the same time, lift your left arm up to the ceiling and rotate your body counterclockwise to your left. Form a "T" shape with your body and arms in the position of a side plank.</string>
+<string name="side_to_side_pushup">Assume a push-up position with your body straight, supported by your extended arms. Your hands should be outside of shoulder width. This will be your starting position. Initiate the movement by flexing the elbows and leaning to one side, lowering your torso to the ground.</string>
+    <string name="spider_mans_pushup">Assume a standard pushup position, your body aligned from ankles to head.As you lower your body toward the floor, lift your right foot, swing your right leg out sideways, and try to touch your knee to your elbow.Return to the starting position, and repeat with your left leg. </string>
+    <string name="staggered_pushup">Assume a normal push-up position with legs and arms straight with your hands under your shoulders.Place your right hand forward and the left hand a bit back, which will be your starting position.Lower your torso until it almost touches the ground, pause for a moment and then push back up as quickly as possible. This will be one complete rep. After completing one set, switch hands. </string>
+    <string name="traditional_pushup">Assume the pushup position: elbows locked; hands about shoulder width apart, flat against the ground; toes on the ground; torso and legs straight, core tight; body parallel to the floor.Lower yourself to the ground, touching your chest to it. Make sure you maintain a tight, rigid body. Think of your legs, hips, and torso as if they formed a cohesive plank or a straight line. Maintain that plank throughout the exercise.Push yourself back up, squeezing your pectoral muscles and completing the full range of motion.At the top, continue until your elbows are completely locked and your shoulder blades are fully protracted.Repeat.</string>
+    <string name="v_pushup">Get in position by standing with your feet slightly wider than shoulder width apart. Bend down and place your hands on the floor while keeping your arms and legs straight. You should look like an upside down human “v” with your butt being the point of the “v” and your head pointing down to the ground.</string>
+    <string name="wall_pushup">Face a wall,standing a little farther than arm’s length away, feet shoulder–width apart.Lean your body forward and put your palms flat against the wall at shoulder height and shoulder-width apart.Slowly breathe in as you bend your elbows and lower your upper body toward the wall in a slow, controlled motion. Keep your feet flat on the floor.Hold the position for 1 second.Breathe out and slowly push yourself back until your arms are straight.</string>
+    <string name="widearm_pushup">Similar to traditional push up,with your hands wide apart,support your body on your toes adn hands in plank position.Your elbows should be extended and your body straight.Do not allow your hips to sag.Thi will be your starting position.Lower your chest down,no lower than two inches from floor,taking your elbows out to your side in order to maximise the benefits yo your chest muscles.</string>
+
+
+
+
+
+
+    <string name="box_pushup_benifit">30 Days Pushups</string>
+
+
+
+
+
+
+
+    <string-array name="name">
+        <item>Laptop</item>
+        <item>Mobile</item>
+        <item>Desktop</item>
+        <item>TV</item>
+        <item>Pendrive</item>
+        <item>Router</item>
+        <item>Notebook</item>
+        <item>Tablet</item>
+        <item>I-pad</item>
+        <item>Bluetooth</item>
+        <item>HomeTheator</item>
+    </string-array>
+
+</resources>

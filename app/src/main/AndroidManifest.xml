@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="patel.krupesh.a30dayspushups">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:installLocation="preferExternal"
+        >
+
+
+        <activity
+            android:name=".MainActivity"
+
+            android:label="SQLiteChecklist" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SQLChecklistFragmentActivity"  android:label="@string/app_name"/>
+        <activity android:name=".EachPushUpActivity"/>
+        <activity android:name=".PushUpExerciseActivity"/>
+
+        <activity android:name=".Level.Beg1Activity" android:label="Begginer Level 1"/>
+        <activity android:name=".Level.Beg2Activity" android:label="Begginer Level 2"/>
+        <activity android:name=".Level.Int1Activity" android:label="Intermediate Level 1"/>
+        <activity android:name=".Level.Int2Activity" android:label="Intermediate Level 2"/>
+        <activity android:name=".Level.Adv1Activity" android:label="Advance Level 1"/>
+        <activity android:name=".Level.Adv2Activity" android:label="Advance Level 2"/>
+
+        <activity android:name=".SixLevelActivity"/>
+
+        <provider android:name="ChecklistContentProvider"
+            android:authorities="com.pwnetics.example.checklist"
+            android:exported="false"/>
+    </application>
+
+</manifest>

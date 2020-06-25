@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cords"
+    android:background="#ffffff"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="2"
+        >
+        <android.support.v7.widget.CardView android:id="@+id/wallpaperButton"
+            android:focusable="true"
+            android:clickable="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:cardCornerRadius="0dp"
+            app:cardBackgroundColor="#FF69B4"
+            android:foreground="?android:attr/selectableItemBackground">
+            <RelativeLayout
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <TextView android:textSize="28sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="30 Days Challenge"
+                    android:gravity="center"
+                    android:textAllCaps="true"
+                    android:fontFamily="res/font/futura_std_medium.ttf"
+                    android:textAlignment="4"
+                    />
+            </RelativeLayout>
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView android:id="@+id/storyButton"
+            android:focusable="true"
+            android:clickable="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:cardCornerRadius="0dp"
+            app:cardBackgroundColor="#CDB787"
+            android:foreground="?android:attr/selectableItemBackground">
+            <RelativeLayout android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <TextView android:textSize="28sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Pushups Types"
+                    android:layout_centerInParent="true"
+                    android:textAllCaps="true"
+                    android:fontFamily="res/font/futura_std_medium.ttf"
+                    android:textAlignment="4"
+                    />
+            </RelativeLayout>
+        </android.support.v7.widget.CardView>
+
+
+    </LinearLayout>
+</android.support.design.widget.CoordinatorLayout>
